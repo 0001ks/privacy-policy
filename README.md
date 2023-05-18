@@ -1,4 +1,4 @@
--              anti
+              anti
         privacy-policy of anti bot
 
                PERSONAL DATA
