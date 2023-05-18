@@ -1,18 +1,18 @@
 -              anti
         privacy-policy of anti bot
--
+
                PERSONAL DATA
     we do not and will never share/sell 
         your personal information for any 
            absolute purpose
- -
+ 
                LIMITATIONS
     all information that we store is discord
      data that we are allowed to use. we will 
       never ask for extrenal information like
        your real name, location or anything
         sensitive.
- -
+ 
                DATA STORAGE
     we store data such as tags, server settings,
      lastfm usernames etc. the bot can also have 
@@ -22,11 +22,10 @@
          we do not use this data for malicious thigs. 
           by using our bot you agree that these informations 
            can be discovered by our bot.
- -
+ 
                   OPTING OUT
     if you want to opt not to disclose any information to us, 
      we automatically do so the moment you stop using our service. 
       you will not be able to use anti bot afterwards too. 
        use the nodata command in any server if you don't want the 
         bot to track your data.
- ---------------------------------------------------
