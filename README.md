@@ -1,5 +1,5 @@
-              anti
-        privacy-policy of anti bot
+                  anti
+           privacy-policy of anti bot
 
                PERSONAL DATA
     we do not and will never share/sell 
